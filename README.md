@@ -1,5 +1,7 @@
 # UCD Physics Labs Python
 
-Sample Python code for use in the UCD Physics Advanced Laboratories
+Sample Python code for use in the UCD Physics Advanced Laboratories, including:
 
-* RBD9103_Picoammater.ipynb to communicate with RBD 9103 USB Picoammeter
+* RBD 9103 USB Picoammeter
+* National Instruments USB 6008/6009 Multifunction I/O
+* Quancom IEEE488 card

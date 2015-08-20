@@ -1,4 +1,4 @@
-# UCD Physics Python Labs
+# UCD Physics Labs Python
 
 Sample Python code for use in the UCD Physics Advanced Laboratories
 

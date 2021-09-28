@@ -1,5 +1,7 @@
 # UCD Physics Labs Python
 
+For documentation see: https://veritas.ucd.ie/~apl/apl/docs
+
 Sample Python code for use in the UCD Physics Advanced Laboratories, including:
 
 Communication with the following modules: 
